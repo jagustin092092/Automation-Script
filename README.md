@@ -1,0 +1,2 @@
+# Automation-Script
+technical exam
